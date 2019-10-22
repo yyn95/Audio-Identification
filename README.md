@@ -11,7 +11,9 @@ Notes: Here only part of datasets have been uploaded because they are too large 
 1. To get match results between all queries and databases, run `python main.py`
 2. To draw the analysis plots, run `python plot.py`
    The following figure shows the number of Matched anchors between 2 queries and all documents in kiki and bouba databases.
+   
    ![matched results](./graphs/match_result.png)
    The corresponding matched timestamps between 2 queries and the documents with top matched number are shown as below.
+   
    ![matched points](./graphs/matched_points.png)
 3. To draw the chromagrams, run `python chroma.py`
