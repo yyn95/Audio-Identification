@@ -1,5 +1,5 @@
 ### Music Informatics Project
-This project is about audio identification. A fingerprint system is built to determine the source database of queries. Besides, an implementation on building chroma features have also been included for comparison.
+This project is about audio identification. A fingerprint system is built to determine the source database of queries. Besides, an implementation for building chroma features has also been included for comparison.
 ##### Dataset
 - Dataset: 
   - 2 query files: under the folder of `./queries/`
